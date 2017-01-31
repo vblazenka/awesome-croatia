@@ -41,6 +41,7 @@
 
  - [CodeCAMP iOS Talks](http://softwarecity.hr/?s=ios+talks) - A series of talks and meetups about iOS and Swift development.
  - [CodeCAMP Android Talks](http://softwarecity.hr/?s=android+talks) - A series of talks about Android development.
+ - [Front_end Meetup Osijek](https://www.facebook.com/OsijekFrontEndMeetup/) - Informal monthly meetup of front-end devs and UI/UX designer in Slavonija.
 
 ## Workshops
 
