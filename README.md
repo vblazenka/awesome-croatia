@@ -10,6 +10,7 @@
 - [Articles](#articles)
 - [Meetups](#meetups)
 	- [Zagreb](#zagreb)
+	- [Osijek](#osijek)
 - [Wokrshops](#workshops)
 - [Conferences](#conferences)
 
@@ -35,6 +36,11 @@
 - [Python Hrvatska](https://www.meetup.com/Python-Hrvatska/) - Python User Group
 - [Web Designers Hrvatska](https://www.meetup.com/Web-Designers-Hrvatska-ZG-Meetup/) - Group of web designer from croatia
 - [Android #izsvesnage at Five](https://www.meetup.com/Android-izsvesnage-Five/) - This is a meetup for anyone interested in Android development in Zagreb, and wider.
+
+### Osijek
+
+ - [CodeCAMP iOS Talks](http://softwarecity.hr/?s=ios+talks) - A series of talks and meetups about iOS and Swift development.
+ - [CodeCAMP Android Talks](http://softwarecity.hr/?s=android+talks) - A series of talks about Android development.
 
 ## Workshops
 
