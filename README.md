@@ -10,6 +10,7 @@
 - [Articles](#articles)
 - [Meetups](#meetups)
 	- [Zagreb](#zagreb)
+- [Wokrshops](#workshops)
 - [Conferences](#conferences)
 
 ## Videos
@@ -35,12 +36,17 @@
 - [Web Designers Hrvatska](https://www.meetup.com/Web-Designers-Hrvatska-ZG-Meetup/) - Group of web designer from croatia
 - [Android #izsvesnage at Five](https://www.meetup.com/Android-izsvesnage-Five/) - This is a meetup for anyone interested in Android development in Zagreb, and wider.
 
+## Workshops
+
+- [NodeSchool Zagreb](https://nodeschool.io/zagreb/) - Open source workshops that teach web software skills.
+
 ## Conferences
 
 - [WebCamp Zagreb 2016](https://2016.webcampzg.org/) - Technology oriented conference for developers & designer
 - [KulenDayz](http://www.kulendayz.com/) - IT Innovation Conference
 - [Shift Developer Conference](http://shift.codeanywhere.com/) - The biggest Developer event in South East Europe.
 - [Weblica](http://weblica.hr/) - Technology conference
+
 
 ## License
 
