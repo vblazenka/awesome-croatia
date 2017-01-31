@@ -8,7 +8,6 @@
 
 - [Videos](#videos)
 - [Articles](#articles)
-- [Museums](#museums)
 - [Meetups](#meetups)
 	- [Zagreb](#zagreb)
 - [Conferences](#conferences)
