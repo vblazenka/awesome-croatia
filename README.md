@@ -11,7 +11,7 @@
 - [Meetups](#meetups)
 	- [Zagreb](#zagreb)
 	- [Osijek](#osijek)
-- [Wokrshops](#workshops)
+- [Workshops](#workshops)
 - [Conferences](#conferences)
 
 ## Videos
@@ -30,12 +30,13 @@
 - [Infinum JS Talks](https://www.meetup.com/Infinum-JS-Talks) - Interesting talks and mini lectures about new and cool stuff that's going on in the world of JS development, organized by the Infinum JS team.
 - [Frontman Zagreb](https://meetup.com/FrontmanZg) - A monthly meetup of front-end developers and enthusiasts from Zagreb and region.
 - [Infinum iOS Talks](https://www.meetup.com/Infinum-iOS-Talks-Zagreb/) - Interesting talks and mini lectures about new and cool stuff that's going on in the world of iOS development, organized by the Infinum iOS team.
--  [Ruby Zagreb](https://www.meetup.com/rubyzg/) - Ruby Zagreb User Group
+- [Ruby Zagreb](https://www.meetup.com/rubyzg/) - Ruby Zagreb User Group
 - [WordPress Croatia](https://www.meetup.com/wordpress-croatia/) - WordPress Croatia meetup
 - [Zagreb PHP Meetup](https://www.meetup.com/ZgPHP-meetup/) - We are a team of PHP developers, working on different projects in different companies, versatile in choice of frameworks or technologies we use.
 - [Python Hrvatska](https://www.meetup.com/Python-Hrvatska/) - Python User Group
 - [Web Designers Hrvatska](https://www.meetup.com/Web-Designers-Hrvatska-ZG-Meetup/) - Group of web designer from croatia
 - [Android #izsvesnage at Five](https://www.meetup.com/Android-izsvesnage-Five/) - This is a meetup for anyone interested in Android development in Zagreb, and wider.
+- [HRScala](https://www.meetup.com/HRScala/) - Scala meetup in Zagreb
 
 ### Osijek
 
