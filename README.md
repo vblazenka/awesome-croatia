@@ -54,7 +54,7 @@
 - [KulenDayz](http://www.kulendayz.com/) - IT Innovation Conference
 - [Shift Developer Conference](http://shift.codeanywhere.com/) - The biggest Developer event in South East Europe.
 - [Weblica](http://weblica.hr/) - Technology conference
-
+- [Microsoft WinDays](https://www.windays.hr/) - Microsoft technology conference
 
 ## License
 
