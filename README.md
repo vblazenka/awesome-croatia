@@ -11,6 +11,7 @@
 - [Meetups](#meetups)
 	- [Zagreb](#zagreb)
 	- [Osijek](#osijek)
+	- [Split](#split)
 - [Workshops](#workshops)
 - [Conferences](#conferences)
 
@@ -40,9 +41,19 @@
 
 ### Osijek
 
- - [CodeCAMP iOS Talks](http://softwarecity.hr/?s=ios+talks) - A series of talks and meetups about iOS and Swift development.
- - [CodeCAMP Android Talks](http://softwarecity.hr/?s=android+talks) - A series of talks about Android development.
- - [Front_end Meetup Osijek](https://www.facebook.com/OsijekFrontEndMeetup/) - Informal monthly meetup of front-end devs and UI/UX designer in Slavonija.
+- [CodeCAMP iOS Talks](http://softwarecity.hr/?s=ios+talks) - A series of talks and meetups about iOS and Swift development.
+- [CodeCAMP Android Talks](http://softwarecity.hr/?s=android+talks) - A series of talks about Android development.
+- [Front_end Meetup Osijek](https://www.facebook.com/OsijekFrontEndMeetup/) - Informal monthly meetup of front-end devs and UI/UX designer in Slavonija.
+
+### Split
+- [Open Coffee Split](https://www.meetup.com/opencoffeesplit/) - Connecting IT professionals and entrepreneurs.
+- [WordPress Split Meetup](https://www.meetup.com/WordPress-Development-Split-Croatia-Meetup/) - WordPress Development Split Croatia Meetup.
+- [Mobile Monday Split](https://www.meetup.com/mobilemondaysplit/) - A group of mobile developers and enthusiasts, looking for some fresh ideas and knowledge.
+- [Level Up Development](https://www.meetup.com/Level-Up-Development/) - Interested in discovering the newest technology trends? Excited about meeting people that share your passion? Join a group of prospective international developers at the monthly Level Up Development meetup.
+- [Hardware Unity Split](https://www.meetup.com/Hardware-Unity-Split/) - First hardware meetup in Split.
+- [Split.JS](https://www.meetup.com/Split-JS/) - A group for everyone involved with creating and maintaining awesome web apps and sites.
+- [Split DevOps Meetup](https://www.meetup.com/Split-DevOps-Meetup/) - This is a non-formal gathering for everyone interested in the dark art of DevOps, systems, automation and security.
+- [Internet Marketing Meetup Split](https://www.meetup.com/IMSplit/) - Group for everyone involved in internet marketing.
 
 ## Workshops
 
