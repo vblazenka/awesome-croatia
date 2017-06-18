@@ -69,7 +69,7 @@
 
 ## Further Ressources
 
-- [Croatia on Top Regional Repositories](https://github.com/lorey/top-regional-repositories/blob/master/countries/croatia.md) - list of popular repositories in Croatia
+- [Croatia on Top Regional Repositories](https://github.com/lorey/top-regional-repositories/blob/master/countries/croatia.md) - List of popular repositories in Croatia
 
 ## License
 
