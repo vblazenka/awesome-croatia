@@ -67,7 +67,7 @@
 - [Weblica](http://weblica.hr/) - Technology conference
 - [Microsoft WinDays](https://www.windays.hr/) - Microsoft technology conference
 
-## Further Ressources
+## Further Resources
 
 - [Croatia on Top Regional Repositories](https://github.com/lorey/top-regional-repositories/blob/master/countries/croatia.md) - List of popular repositories in Croatia
 
