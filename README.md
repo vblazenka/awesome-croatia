@@ -1,5 +1,5 @@
 # `awesome-croatia` [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" width="100px" align="right" alt="CRO">
 
@@ -86,8 +86,8 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars3.githubusercontent.com/u/1723170?v=4" width="100px;"/><br /><sub><b>Vedran Blazenka</b></sub>](https://www.vblazenka.com/)<br />[📖](https://github.com/Vedran Blazenka/awesome-croatia/commits?author=wedranb "Documentation") [👀](#review-wedranb "Reviewed Pull Requests") | [<img src="https://avatars2.githubusercontent.com/u/1530952?v=4" width="100px;"/><br /><sub><b>Dino Trojak</b></sub>](http://reactor.studio)<br />[📖](https://github.com/Vedran Blazenka/awesome-croatia/commits?author=dinodsaurus "Documentation") | [<img src="https://avatars2.githubusercontent.com/u/15250015?v=4" width="100px;"/><br /><sub><b>Marin Benčević</b></sub>](https://medium.com/@marinbenc)<br />[📖](https://github.com/Vedran Blazenka/awesome-croatia/commits?author=marinbenc "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/7020915?v=4" width="100px;"/><br /><sub><b>Mihael Tomić</b></sub>](http://www.mihaeltomic.com)<br />[📖](https://github.com/Vedran Blazenka/awesome-croatia/commits?author=mihaeltomic "Documentation") |
-| :---: | :---: | :---: | :---: |
+| [<img src="https://avatars3.githubusercontent.com/u/1723170?v=4" width="100px;"/><br /><sub><b>Vedran Blazenka</b></sub>](https://www.vblazenka.com/)<br />[📖](https://github.com/Vedran Blazenka/awesome-croatia/commits?author=wedranb "Documentation") [👀](#review-wedranb "Reviewed Pull Requests") | [<img src="https://avatars2.githubusercontent.com/u/1530952?v=4" width="100px;"/><br /><sub><b>Dino Trojak</b></sub>](http://reactor.studio)<br />[📖](https://github.com/Vedran Blazenka/awesome-croatia/commits?author=dinodsaurus "Documentation") | [<img src="https://avatars2.githubusercontent.com/u/15250015?v=4" width="100px;"/><br /><sub><b>Marin Benčević</b></sub>](https://medium.com/@marinbenc)<br />[📖](https://github.com/Vedran Blazenka/awesome-croatia/commits?author=marinbenc "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/7020915?v=4" width="100px;"/><br /><sub><b>Mihael Tomić</b></sub>](http://www.mihaeltomic.com)<br />[📖](https://github.com/Vedran Blazenka/awesome-croatia/commits?author=mihaeltomic "Documentation") | [<img src="https://avatars3.githubusercontent.com/u/1550765?v=4" width="100px;"/><br /><sub><b>Karl Lorey</b></sub>](http://programmermap.com)<br />[📖](https://github.com/Vedran Blazenka/awesome-croatia/commits?author=lorey "Documentation") |
+| :---: | :---: | :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
