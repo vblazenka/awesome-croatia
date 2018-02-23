@@ -1,4 +1,5 @@
 # `awesome-croatia` [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" width="100px" align="right" alt="CRO">
 
@@ -78,3 +79,15 @@
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Vedran Blazenka](http://vblazenka.com) has waived all copyright and related or neighboring rights to this work.
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+| [<img src="https://avatars3.githubusercontent.com/u/1723170?v=4" width="100px;"/><br /><sub><b>Vedran Blazenka</b></sub>](https://www.vblazenka.com/)<br />[📖](https://github.com/Vedran Blazenka/awesome-croatia/commits?author=wedranb "Documentation") [👀](#review-wedranb "Reviewed Pull Requests") | [<img src="https://avatars2.githubusercontent.com/u/1530952?v=4" width="100px;"/><br /><sub><b>Dino Trojak</b></sub>](http://reactor.studio)<br />[📖](https://github.com/Vedran Blazenka/awesome-croatia/commits?author=dinodsaurus "Documentation") |
+| :---: | :---: |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!

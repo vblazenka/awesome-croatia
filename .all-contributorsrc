@@ -1,0 +1,32 @@
+{
+  "projectName": "awesome-croatia",
+  "projectOwner": "Vedran Blazenka",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "wedranb",
+      "name": "Vedran Blazenka",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1723170?v=4",
+      "profile": "https://www.vblazenka.com/",
+      "contributions": [
+        "doc",
+        "review"
+      ]
+    },
+    {
+      "login": "dinodsaurus",
+      "name": "Dino Trojak",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1530952?v=4",
+      "profile": "http://reactor.studio",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ]
+}
