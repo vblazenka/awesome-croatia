@@ -38,6 +38,8 @@
 - [Web Designers Hrvatska](https://www.meetup.com/Web-Designers-Hrvatska-ZG-Meetup/) - Group of web designer from croatia
 - [Android #izsvesnage at Five](https://www.meetup.com/Android-izsvesnage-Five/) - This is a meetup for anyone interested in Android development in Zagreb, and wider.
 - [HRScala](https://www.meetup.com/HRScala/) - Scala meetup in Zagreb
+- [React Zagreb](https://www.meetup.com/React-Zagreb/) - If you are passionate about React, join us to exchange ideas and knowledge, find out what's new, and hang out with your fellow React enthusiasts.
+
 
 ### Osijek
 
