@@ -13,6 +13,7 @@
 	- [Zagreb](#zagreb)
 	- [Osijek](#osijek)
 	- [Split](#split)
+	- [Čakovec](#cakovec)
 - [Workshops](#workshops)
 - [Conferences](#conferences)
 
@@ -57,6 +58,9 @@
 - [Split.JS](https://www.meetup.com/Split-JS/) - A group for everyone involved with creating and maintaining awesome web apps and sites.
 - [Split DevOps Meetup](https://www.meetup.com/Split-DevOps-Meetup/) - This is a non-formal gathering for everyone interested in the dark art of DevOps, systems, automation and security.
 - [Internet Marketing Meetup Split](https://www.meetup.com/IMSplit/) - Group for everyone involved in internet marketing.
+
+### Čakovec
+- [Me<CoDe/>](https://www.meetup.com/MeCoDe/) - Meetups in Čakovec focused on building full-stack applications.
 
 ## Workshops
 
