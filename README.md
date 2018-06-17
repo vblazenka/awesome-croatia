@@ -13,7 +13,7 @@
 	- [Zagreb](#zagreb)
 	- [Osijek](#osijek)
 	- [Split](#split)
-	- [Čakovec](#cakovec)
+	- [Čakovec](#čakovec)
 - [Workshops](#workshops)
 - [Conferences](#conferences)
 
@@ -60,7 +60,7 @@
 - [Internet Marketing Meetup Split](https://www.meetup.com/IMSplit/) - Group for everyone involved in internet marketing.
 
 ### Čakovec
-- [Me<CoDe/>](https://www.meetup.com/MeCoDe/) - Meetups in Čakovec focused on building full-stack applications.
+- [MeCoDe](https://www.meetup.com/MeCoDe/) - Meetups in Čakovec focused on building full-stack applications.
 
 ## Workshops
 
