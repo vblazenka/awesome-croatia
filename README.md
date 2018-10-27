@@ -14,6 +14,7 @@
 	- [Osijek](#osijek)
 	- [Split](#split)
 	- [Čakovec](#čakovec)
+	- [Varaždin](#varaždin)
 - [Workshops](#workshops)
 - [Conferences](#conferences)
 
@@ -61,6 +62,9 @@
 
 ### Čakovec
 - [MeCoDe](https://www.meetup.com/MeCoDe/) - Meetups in Čakovec focused on building full-stack applications.
+
+### Varaždin
+- [Devz Meetup](https://www.meetup.com/Devz-Meetup-Vara%C5%BEdin/) - Meetup for developers, designers and everybody who wants to learn something new.
 
 ## Workshops
 
