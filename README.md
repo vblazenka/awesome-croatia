@@ -7,16 +7,21 @@
 
 ## Contents
 
-- [Videos](#videos)
-- [Articles](#articles)
-- [Meetups](#meetups)
-	- [Zagreb](#zagreb)
-	- [Osijek](#osijek)
-	- [Split](#split)
-	- [Čakovec](#čakovec)
-	- [Varaždin](#varaždin)
-- [Workshops](#workshops)
-- [Conferences](#conferences)
+- [`awesome-croatia` ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-croatia-awesome)
+	- [Contents](#contents)
+	- [Videos](#videos)
+	- [Articles](#articles)
+	- [Meetups](#meetups)
+		- [Zagreb](#zagreb)
+		- [Osijek](#osijek)
+		- [Split](#split)
+		- [Čakovec](#Čakovec)
+		- [Varaždin](#varaždin)
+	- [Workshops](#workshops)
+	- [Conferences](#conferences)
+	- [Further Resources](#further-resources)
+	- [License](#license)
+	- [Contributors](#contributors)
 
 ## Videos
 
@@ -94,7 +99,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars3.githubusercontent.com/u/1723170?v=4" width="100px;"/><br /><sub><b>Vedran Blazenka</b></sub>](https://www.vblazenka.com/)<br />[📖](https://github.com/Vedran Blazenka/awesome-croatia/commits?author=wedranb "Documentation") [👀](#review-wedranb "Reviewed Pull Requests") | [<img src="https://avatars2.githubusercontent.com/u/1530952?v=4" width="100px;"/><br /><sub><b>Dino Trojak</b></sub>](http://reactor.studio)<br />[📖](https://github.com/Vedran Blazenka/awesome-croatia/commits?author=dinodsaurus "Documentation") | [<img src="https://avatars2.githubusercontent.com/u/15250015?v=4" width="100px;"/><br /><sub><b>Marin Benčević</b></sub>](https://medium.com/@marinbenc)<br />[📖](https://github.com/Vedran Blazenka/awesome-croatia/commits?author=marinbenc "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/7020915?v=4" width="100px;"/><br /><sub><b>Mihael Tomić</b></sub>](http://www.mihaeltomic.com)<br />[📖](https://github.com/Vedran Blazenka/awesome-croatia/commits?author=mihaeltomic "Documentation") | [<img src="https://avatars3.githubusercontent.com/u/1550765?v=4" width="100px;"/><br /><sub><b>Karl Lorey</b></sub>](http://programmermap.com)<br />[📖](https://github.com/Vedran Blazenka/awesome-croatia/commits?author=lorey "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/551485?v=4" width="100px;"/><br /><sub><b>Marko Elezović</b></sub>](https://oradian.com/)<br />[📖](https://github.com/Vedran Blazenka/awesome-croatia/commits?author=melezov "Documentation") | [<img src="https://avatars3.githubusercontent.com/u/7807482?v=4" width="100px;"/><br /><sub><b>Roberto Kedmenec</b></sub>](http://kedmenecr.github.io/)<br />[📖](https://github.com/Vedran Blazenka/awesome-croatia/commits?author=kedmenecr "Documentation") |
+| [<img src="https://avatars3.githubusercontent.com/u/1723170?v=4" width="100px;"/><br /><sub><b>Vedran Blazenka</b></sub>](https://www.vblazenka.com/)<br />[📖](https://github.com/wedranb/awesome-croatia/commits?author=wedranb "Documentation") [👀](#review-wedranb "Reviewed Pull Requests") | [<img src="https://avatars2.githubusercontent.com/u/1530952?v=4" width="100px;"/><br /><sub><b>Dino Trojak</b></sub>](http://reactor.studio)<br />[📖](https://github.com/wedranb/awesome-croatia/commits?author=dinodsaurus "Documentation") | [<img src="https://avatars2.githubusercontent.com/u/15250015?v=4" width="100px;"/><br /><sub><b>Marin Benčević</b></sub>](https://medium.com/@marinbenc)<br />[📖](https://github.com/wedranb/awesome-croatia/commits?author=marinbenc "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/7020915?v=4" width="100px;"/><br /><sub><b>Mihael Tomić</b></sub>](http://www.mihaeltomic.com)<br />[📖](https://github.com/wedranb/awesome-croatia/commits?author=mihaeltomic "Documentation") | [<img src="https://avatars3.githubusercontent.com/u/1550765?v=4" width="100px;"/><br /><sub><b>Karl Lorey</b></sub>](http://programmermap.com)<br />[📖](https://github.com/wedranb/awesome-croatia/commits?author=lorey "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/551485?v=4" width="100px;"/><br /><sub><b>Marko Elezović</b></sub>](https://oradian.com/)<br />[📖](https://github.com/wedranb/awesome-croatia/commits?author=melezov "Documentation") | [<img src="https://avatars3.githubusercontent.com/u/7807482?v=4" width="100px;"/><br /><sub><b>Roberto Kedmenec</b></sub>](http://kedmenecr.github.io/)<br />[📖](https://github.com/wedranb/awesome-croatia/commits?author=kedmenecr "Documentation") |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 

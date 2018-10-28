@@ -4,7 +4,7 @@
 	"description": "A curated list of things that show the awesome side of Croatia.",
 	"main": "index.js",
 	"repository": "https://github.com/wedranb/awesome-croatia.git",
-	"author": "Vedran Blazenka <blazenka.vedran@gmail.com>",
+	"author": "wedranb <blazenka.vedran@gmail.com>",
 	"license": "MIT",
 	"scripts": {
 		"contributors:add": "all-contributors add",
