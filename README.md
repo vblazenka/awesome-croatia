@@ -47,7 +47,9 @@
 - [Android #izsvesnage at Five](https://www.meetup.com/Android-izsvesnage-Five/) - This is a meetup for anyone interested in Android development in Zagreb, and wider.
 - [HRScala](https://www.meetup.com/HRScala/) - Scala meetup in Zagreb
 - [React Zagreb](https://www.meetup.com/React-Zagreb/) - If you are passionate about React, join us to exchange ideas and knowledge, find out what's new, and hang out with your fellow React enthusiasts.
-
+- [impl Zagreb for Rust](https://www.meetup.com/Zagreb-Rust-Meetup/) - Meetup group where we talk about all things Rust.
+- [Apps&Pizza Mobile Meetup](https://www.meetup.com/AppsPizza/events/260169242/)- Gathering spot for everyone interested in mobile applications. It brings together a wide community of mobile developers and designers, as well as other mobile enthusiasts.
+- [(S)CSS_Zagreb](https://www.meetup.com/S_CSS_Zagreb/) - We are a group for anyone interested in Cascading Stylesheets and Syntactically Awesome Stylesheets
 
 ### Osijek
 
