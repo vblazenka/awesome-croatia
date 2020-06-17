@@ -69,6 +69,7 @@
 
 ### Čakovec
 - [MeCoDe](https://www.meetup.com/MeCoDe/) - Meetups in Čakovec focused on building full-stack applications.
+- [ĐavaSkriptanje](https://www.facebook.com/jsmedimurje) - Learning community organizing presentations and workshops in Čakovec
 
 ### Varaždin
 - [Devz Meetup](https://www.meetup.com/Devz-Meetup-Vara%C5%BEdin/) - Meetup for developers, designers and everybody who wants to learn something new.
