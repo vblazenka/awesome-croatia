@@ -85,6 +85,10 @@
 - [Shift Developer Conference](http://shift.codeanywhere.com/) - The biggest Developer event in South East Europe.
 - [Weblica](http://weblica.hr/) - Technology conference
 - [Microsoft WinDays](https://www.windays.hr/) - Microsoft technology conference
+- [DUMP Days](https://days.dump.hr/) - tech conference for devs, designers and marketing people
+- [BlockSplit 3](https://blocksplit.net/) - Web3 Conference in the heart of the Mediterranean
+- [Green Future Conference](https://www.greenfuture-conf.com/) - ENVIRONMENT, ENERGY & E-MOBILITY CONFERENCE
+- [SplitX Summit](https://summit.splitx.com/) - Exclusive gathering of XR / Metaverse / Web3 experts
 
 ## Further Resources
 
