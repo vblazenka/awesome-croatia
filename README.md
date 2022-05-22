@@ -93,6 +93,7 @@
 ## Further Resources
 
 - [Croatia on Top Regional Repositories](https://github.com/lorey/top-regional-repositories/blob/master/countries/croatia.md) - List of popular repositories in Croatia
+- [Codotto - Organize and attend IT meetups with ease](https://codotto.com/) - A platform developed to help IT community to organize and attend IT meetups. Their sole focus is the IT community.
 
 ## License
 
