@@ -37,7 +37,7 @@
 
 - [JavaScript Zagreb](https://meetup.com/JavaScript-Zagreb) - JavaScript meetup in Zagreb
 - [Infinum JS Talks](https://www.meetup.com/Infinum-JS-Talks) - Interesting talks and mini lectures about new and cool stuff that's going on in the world of JS development, organized by the Infinum JS team.
-- [Frontman Zagreb](https://meetup.com/FrontmanZg) - A monthly meetup of front-end developers and enthusiasts from Zagreb and region.
+- [Frontend Zagreb](https://codotto.com/groups/frontend-zg) - A monthly meetup of front-end developers and enthusiasts from Zagreb and region.
 - [Infinum iOS Talks](https://www.meetup.com/Infinum-iOS-Talks-Zagreb/) - Interesting talks and mini lectures about new and cool stuff that's going on in the world of iOS development, organized by the Infinum iOS team.
 - [Ruby Zagreb](https://www.meetup.com/rubyzg/) - Ruby Zagreb User Group
 - [WordPress Croatia](https://www.meetup.com/wordpress-croatia/) - WordPress Croatia meetup
